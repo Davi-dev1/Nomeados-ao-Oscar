@@ -1,0 +1,1 @@
+select * from indicados_ao_oscar;
