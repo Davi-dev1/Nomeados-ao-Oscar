@@ -9,3 +9,8 @@
 ### Resposta-> Não
 #### Q:
 select * from indicados_ao_oscar where nome_do_indicado like "%Amy Adams%" and vencedor="true"
+
+# 3-A série de filmes Toy Story ganhou um Oscar em quais anos?
+### Resposta-> 3 anos 
+### Q:
+select * from indicados_ao_oscar where nome_do_filme like "%Toy Story%" and vencedor="true"; ou pode ser feito assim (onde só apareceria os anos de premiação do filme): select ano_cerimonia from indicados_ao_oscar where nome_do_filme like "%toy story%" and vencedor="true"
