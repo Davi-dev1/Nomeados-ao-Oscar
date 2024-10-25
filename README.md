@@ -34,6 +34,11 @@ update indicados_ao_oscar SET vencedor= 0 where vencedor='false';
 # 7- Em qual edição do Oscar "Crash" concorreu ao Oscar?
 ### Resposta: Cerimonia 78, ano 2006.
 
+# 8- O filme Central do Brasil aparece no Oscar?
+### Resposta: Não aparece.
+###  Q:
+select * from indicados_ao_oscar where nome_do_filme= "Central do Brasil"
+
 #### Q :
 select * from  indicados_ao_oscar where nome_do_filme= "Crash"
  
