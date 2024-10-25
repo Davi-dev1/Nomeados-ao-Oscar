@@ -3,7 +3,7 @@
  # 1-Quantos Oscars Natalie Portman ganhou ? 
  ### Resposta -> 3
 #### Q:
- Select count(*) from indicados_ao_oscar where nome_do_indicado like "%Natalie Portman%";
+ Select count(*) from indicados_ao_oscar where nome_do_indicado like "%Natalie Portman%" and vencedor="true";
 
 # 2-Amy Adams já ganhou algum Oscar ?
 ### Resposta-> Não
