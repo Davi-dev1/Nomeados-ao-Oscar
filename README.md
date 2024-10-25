@@ -19,3 +19,9 @@ select * from indicados_ao_oscar where nome_do_filme like "%Toy Story%" and venc
 ### Resposta: 2024
 ### Q:
 select  ano_cerimonia from indicados_ao_oscar   where categoria  like  "%ACTRESS%" (terei que ver essa dai direito)
+
+# 5 - Quem ganhou o primeiro Oscar para Melhor Atriz? Em que ano ?
+  ### Resposta: Janet Gaynor, no ano de 1928
+
+ ### Q:
+ select  nome_do_indicado,ano_cerimonia, categoria from indicados_ao_oscar where categoria like "%ACTRESS%" and vencedor="true" order by ano_cerimonia
