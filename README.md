@@ -30,4 +30,10 @@ select  ano_cerimonia from indicados_ao_oscar   where categoria  like  "%ACTRESS
  ### Q :
  UPDATE indicados_ao_oscar  SET vencedor = 1 WHERE vencedor='true';
 update indicados_ao_oscar SET vencedor= 0 where vencedor='false';
+
+# 7- Em qual edição do Oscar "Crash" concorreu ao Oscar?
+### Resposta: Cerimonia 78, ano 2006.
+
+#### Q :
+select * from  indicados_ao_oscar where nome_do_filme= "Crash"
  
