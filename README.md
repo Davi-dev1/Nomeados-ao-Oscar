@@ -25,3 +25,9 @@ select  ano_cerimonia from indicados_ao_oscar   where categoria  like  "%ACTRESS
 
  ### Q:
  select  nome_do_indicado,ano_cerimonia, categoria from indicados_ao_oscar where categoria like "%ACTRESS%" and vencedor="true" order by ano_cerimonia
+
+ # 6- No campo "vencedor", altere todos os valores com "true" para 1 e todos os valores "false" para 0.
+ ### Q :
+ UPDATE indicados_ao_oscar  SET vencedor = 1 WHERE vencedor='true';
+update indicados_ao_oscar SET vencedor= 0 where vencedor='false';
+ 
