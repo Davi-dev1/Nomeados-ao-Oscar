@@ -55,7 +55,7 @@ insert into indicados_ao_oscar(ano_filmagem,ano_cerimonia,cerimonia,categoria,no
 ### Q:
 select nome_do_indicado,ano_cerimonia,vencedor from indicados_ao_oscar where nome_do_indicado like "%Denzel Washington%" and vencedor=1;
 
-# 11 -Quais os filmes que ganharam o Oscar de Melhor Filme?
+# 11 - Quais os filmes que ganharam o Oscar de Melhor Filme?
 #### Resposta:Sam Spiegel, Producer
 Tony Richardson, Producer
 Jack L. Warner, Producer
