@@ -56,194 +56,198 @@ insert into indicados_ao_oscar(ano_filmagem,ano_cerimonia,cerimonia,categoria,no
 select nome_do_indicado,ano_cerimonia,vencedor from indicados_ao_oscar where nome_do_indicado like "%Denzel Washington%" and vencedor=1;
 
 # 11 - Quais os filmes que ganharam o Oscar de Melhor Filme?
-#### Resposta:Sam Spiegel, Producer
-Tony Richardson, Producer
-Jack L. Warner, Producer
-Robert Wise, Producer
-Fred Zinnemann, Producer
-Walter Mirisch, Producer
-John Woolf, Producer
-Jerome Hellman, Producer
-Frank McCarthy, Producer
-Philip D'Antoni, Producer
-Albert S. Ruddy, Producer
-Tony Bill, Michael Phillips and Julia Phillips, Producers
-Francis Ford Coppola, Producer;  Gray Frederickson and Fred Roos, Co-Producers
-Saul Zaentz and Michael Douglas, Producers
-Irwin Winkler and Robert Chartoff, Producers
-Charles H. Joffe, Producer
-Barry Spikings, Michael Deeley, Michael Cimino and John Peverall, Producers
-Stanley R. Jaffe, Producer
-Ronald L. Schwary, Producer
-David Puttnam, Producer
-Richard Attenborough, Producer
-James L. Brooks, Producer
-Saul Zaentz, Producer
-Sydney Pollack, Producer
-Arnold Kopelson, Producer
-Jeremy Thomas, Producer
-Mark Johnson, Producer
-Richard D. Zanuck and Lili Fini Zanuck, Producers
-Jim Wilson and Kevin Costner, Producers
-Edward Saxon, Kenneth Utt and Ron Bozman, Producers
-Clint Eastwood, Producer
-Steven Spielberg, Gerald R. Molen and Branko Lustig, Producers
-Wendy Finerman, Steve Tisch and Steve Starkey, Producers
-Mel Gibson, Alan Ladd, Jr. and Bruce Davey, Producers
-Saul Zaentz, Producer
-James Cameron and Jon Landau, Producers
-David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick and Marc Norman, Producers
-Bruce Cohen and Dan Jinks, Producers
-Douglas Wick, David Franzoni and Branko Lustig, Producers
-Brian Grazer and Ron Howard, Producers
-Martin Richards, Producer
-Barrie M. Osborne, Peter Jackson and Fran Walsh, Producers
-Clint Eastwood, Albert S. Ruddy and Tom Rosenberg, Producers
-Paul Haggis and Cathy Schulman, Producers
-Graham King, Producer
-Scott Rudin, Ethan Coen and Joel Coen, Producers
-Christian Colson, Producer
-Kathryn Bigelow, Mark Boal, Nicolas Chartier and Greg Shapiro, Producers
-Iain Canning, Emile Sherman and Gareth Unwin, Producers
-Thomas Langmann, Producer
-Grant Heslov, Ben Affleck and George Clooney, Producers
-Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen and Anthony Katagas, Producers
-Alejandro G. Iñárritu, John Lesher and James W. Skotchdopole, Producers
-Michael Sugar, Steve Golin, Nicole Rocklin and Blye Pagon Faust, Producers
-Adele Romanski, Dede Gardner and Jeremy Kleiner, Producers
-Guillermo del Toro and J. Miles Dale, Producers
-Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly and Nick Vallelonga, Producers
-Kwak Sin Ae and Bong Joon Ho, Producers
-Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey and Chloé Zhao, Producers
-Philippe Rousselet, Fabrice Gianfermi and Patrick Wachsberger, Producers
-Daniel Kwan, Daniel Scheinert and Jonathan Wang, Producers
-Emma Thomas, Charles Roven and Christopher Nolan, Producers
-Sam Spiegel, Producer
-Tony Richardson, Producer
-Jack L. Warner, Producer
-Robert Wise, Producer
-Fred Zinnemann, Producer
-Walter Mirisch, Producer
-John Woolf, Producer
-Jerome Hellman, Producer
-Frank McCarthy, Producer
-Philip D'Antoni, Producer
-Albert S. Ruddy, Producer
-Tony Bill, Michael Phillips and Julia Phillips, Producers
-Francis Ford Coppola, Producer;  Gray Frederickson and Fred Roos, Co-Producers
-Saul Zaentz and Michael Douglas, Producers
-Irwin Winkler and Robert Chartoff, Producers
-Charles H. Joffe, Producer
-Barry Spikings, Michael Deeley, Michael Cimino and John Peverall, Producers
-Stanley R. Jaffe, Producer
-Ronald L. Schwary, Producer
-David Puttnam, Producer
-Richard Attenborough, Producer
-James L. Brooks, Producer
-Saul Zaentz, Producer
-Sydney Pollack, Producer
-Arnold Kopelson, Producer
-Jeremy Thomas, Producer
-Mark Johnson, Producer
-Richard D. Zanuck and Lili Fini Zanuck, Producers
-Jim Wilson and Kevin Costner, Producers
-Edward Saxon, Kenneth Utt and Ron Bozman, Producers
-Clint Eastwood, Producer
-Steven Spielberg, Gerald R. Molen and Branko Lustig, Producers
-Wendy Finerman, Steve Tisch and Steve Starkey, Producers
-Mel Gibson, Alan Ladd, Jr. and Bruce Davey, Producers
-Saul Zaentz, Producer
-James Cameron and Jon Landau, Producers
-David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick and Marc Norman, Producers
-Bruce Cohen and Dan Jinks, Producers
-Douglas Wick, David Franzoni and Branko Lustig, Producers
-Brian Grazer and Ron Howard, Producers
-Martin Richards, Producer
-Barrie M. Osborne, Peter Jackson and Fran Walsh, Producers
-Clint Eastwood, Albert S. Ruddy and Tom Rosenberg, Producers
-Paul Haggis and Cathy Schulman, Producers
-Graham King, Producer
-Scott Rudin, Ethan Coen and Joel Coen, Producers
-Christian Colson, Producer
-Kathryn Bigelow, Mark Boal, Nicolas Chartier and Greg Shapiro, Producers
-Iain Canning, Emile Sherman and Gareth Unwin, Producers
-Thomas Langmann, Producer
-Grant Heslov, Ben Affleck and George Clooney, Producers
-Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen and Anthony Katagas, Producers
-Alejandro G. Iñárritu, John Lesher and James W. Skotchdopole, Producers
-Michael Sugar, Steve Golin, Nicole Rocklin and Blye Pagon Faust, Producers
-Adele Romanski, Dede Gardner and Jeremy Kleiner, Producers
-Guillermo del Toro and J. Miles Dale, Producers
-Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly and Nick Vallelonga, Producers
-Kwak Sin Ae and Bong Joon Ho, Producers
-Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey and Chloé Zhao, Producers
-Philippe Rousselet, Fabrice Gianfermi and Patrick Wachsberger, Producers
-Daniel Kwan, Daniel Scheinert and Jonathan Wang, Producers
-Emma Thomas, Charles Roven and Christopher Nolan, Producers
-Sam Spiegel, Producer
-Tony Richardson, Producer
-Jack L. Warner, Producer
-Robert Wise, Producer
-Fred Zinnemann, Producer
-Walter Mirisch, Producer
-John Woolf, Producer
-Jerome Hellman, Producer
-Frank McCarthy, Producer
-Philip D'Antoni, Producer
-Albert S. Ruddy, Producer
-Tony Bill, Michael Phillips and Julia Phillips, Producers
-Francis Ford Coppola, Producer;  Gray Frederickson and Fred Roos, Co-Producers
-Saul Zaentz and Michael Douglas, Producers
-Irwin Winkler and Robert Chartoff, Producers
-Charles H. Joffe, Producer
-Barry Spikings, Michael Deeley, Michael Cimino and John Peverall, Producers
-Stanley R. Jaffe, Producer
-Ronald L. Schwary, Producer
-David Puttnam, Producer
-Richard Attenborough, Producer
-James L. Brooks, Producer
-Saul Zaentz, Producer
-Sydney Pollack, Producer
-Arnold Kopelson, Producer
-Jeremy Thomas, Producer
-Mark Johnson, Producer
-Richard D. Zanuck and Lili Fini Zanuck, Producers
-Jim Wilson and Kevin Costner, Producers
-Edward Saxon, Kenneth Utt and Ron Bozman, Producers
-Clint Eastwood, Producer
-Steven Spielberg, Gerald R. Molen and Branko Lustig, Producers
-Wendy Finerman, Steve Tisch and Steve Starkey, Producers
-Mel Gibson, Alan Ladd, Jr. and Bruce Davey, Producers
-Saul Zaentz, Producer
-James Cameron and Jon Landau, Producers
-David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick and Marc Norman, Producers
-Bruce Cohen and Dan Jinks, Producers
-Douglas Wick, David Franzoni and Branko Lustig, Producers
-Brian Grazer and Ron Howard, Producers
-Martin Richards, Producer
-Barrie M. Osborne, Peter Jackson and Fran Walsh, Producers
-Clint Eastwood, Albert S. Ruddy and Tom Rosenberg, Producers
-Paul Haggis and Cathy Schulman, Producers
-Graham King, Producer
-Scott Rudin, Ethan Coen and Joel Coen, Producers
-Christian Colson, Producer
-Kathryn Bigelow, Mark Boal, Nicolas Chartier and Greg Shapiro, Producers
-Iain Canning, Emile Sherman and Gareth Unwin, Producers
-Thomas Langmann, Producer
-Grant Heslov, Ben Affleck and George Clooney, Producers
-Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen and Anthony Katagas, Producers
-Alejandro G. Iñárritu, John Lesher and James W. Skotchdopole, Producers
-Michael Sugar, Steve Golin, Nicole Rocklin and Blye Pagon Faust, Producers
-Adele Romanski, Dede Gardner and Jeremy Kleiner, Producers
-Guillermo del Toro and J. Miles Dale, Producers
-Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly and Nick Vallelonga, Producers
-Kwak Sin Ae and Bong Joon Ho, Producers
-Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey and Chloé Zhao, Producers
-Philippe Rousselet, Fabrice Gianfermi and Patrick Wachsberger, Producers
-Daniel Kwan, Daniel Scheinert and Jonathan Wang, Producers
-Emma Thomas, Charles Roven and Christopher Nolan, Producers
+#### Resposta:
+Lawrence of Arabia
+Tom Jones
+My Fair Lady
+The Sound of Music
+A Man for All Seasons
+In the Heat of the Night
+Oliver!
+Midnight Cowboy
+Patton
+The French Connection
+The Godfather
+The Sting
+The Godfather Part II
+One Flew over the Cuckoo's Nest
+Rocky
+Annie Hall
+The Deer Hunter
+Kramer vs. Kramer
+Ordinary People
+Chariots of Fire
+Gandhi
+Terms of Endearment
+Amadeus
+Out of Africa
+Platoon
+The Last Emperor
+Rain Man
+Driving Miss Daisy
+Dances With Wolves
+The Silence of the Lambs
+Unforgiven
+Schindler's List
+Forrest Gump
+Braveheart
+The English Patient
+Titanic
+Shakespeare in Love
+American Beauty
+Gladiator
+A Beautiful Mind
+Chicago
+The Lord of the Rings: The Return of the King
+Million Dollar Baby
+Crash
+The Departed
+No Country for Old Men
+Slumdog Millionaire
+The Hurt Locker
+The King's Speech
+The Artist
+Argo
+12 Years a Slave
+Birdman or (The Unexpected Virtue of Ignorance)
+Spotlight
+Moonlight
+The Shape of Water
+Green Book
+Parasite
+Nomadland
+CODA
+Everything Everywhere All at Once
+Oppenheimer
+Lawrence of Arabia
+Tom Jones
+My Fair Lady
+The Sound of Music
+A Man for All Seasons
+In the Heat of the Night
+Oliver!
+Midnight Cowboy
+Patton
+The French Connection
+The Godfather
+The Sting
+The Godfather Part II
+One Flew over the Cuckoo's Nest
+Rocky
+Annie Hall
+The Deer Hunter
+Kramer vs. Kramer
+Ordinary People
+Chariots of Fire
+Gandhi
+Terms of Endearment
+Amadeus
+Out of Africa
+Platoon
+The Last Emperor
+Rain Man
+Driving Miss Daisy
+Dances With Wolves
+The Silence of the Lambs
+Unforgiven
+Schindler's List
+Forrest Gump
+Braveheart
+The English Patient
+Titanic
+Shakespeare in Love
+American Beauty
+Gladiator
+A Beautiful Mind
+Chicago
+The Lord of the Rings: The Return of the King
+Million Dollar Baby
+Crash
+The Departed
+No Country for Old Men
+Slumdog Millionaire
+The Hurt Locker
+The King's Speech
+The Artist
+Argo
+12 Years a Slave
+Birdman or (The Unexpected Virtue of Ignorance)
+Spotlight
+Moonlight
+The Shape of Water
+Green Book
+Parasite
+Nomadland
+CODA
+Everything Everywhere All at Once
+Oppenheimer
+Lawrence of Arabia
+Tom Jones
+My Fair Lady
+The Sound of Music
+A Man for All Seasons
+In the Heat of the Night
+Oliver!
+Midnight Cowboy
+Patton
+The French Connection
+The Godfather
+The Sting
+The Godfather Part II
+One Flew over the Cuckoo's Nest
+Rocky
+Annie Hall
+The Deer Hunter
+Kramer vs. Kramer
+Ordinary People
+Chariots of Fire
+Gandhi
+Terms of Endearment
+Amadeus
+Out of Africa
+Platoon
+The Last Emperor
+Rain Man
+Driving Miss Daisy
+Dances With Wolves
+The Silence of the Lambs
+Unforgiven
+Schindler's List
+Forrest Gump
+Braveheart
+The English Patient
+Titanic
+Shakespeare in Love
+American Beauty
+Gladiator
+A Beautiful Mind
+Chicago
+The Lord of the Rings: The Return of the King
+Million Dollar Baby
+Crash
+The Departed
+No Country for Old Men
+Slumdog Millionaire
+The Hurt Locker
+The King's Speech
+The Artist
+Argo
+12 Years a Slave
+Birdman or (The Unexpected Virtue of Ignorance)
+Spotlight
+Moonlight
+The Shape of Water
+Green Book
+Parasite
+Nomadland
+CODA
+Everything Everywhere All at Once
+Oppenheimer
+
+
+
 ### Q: 
-select nome_do_indicado,vencedor,categoria from indicados_ao_oscar where categoria like "%Best Picture%" and vencedor=1;
+select nome_do_filme,vencedor,categoria from indicados_ao_oscar where categoria like "%Best Picture%" and vencedor=1;
 # 12- Bonus: Quais os filmes que ganharam o Oscar de Melhor Filme e Melhor Diretor na mesma cerimonia?
 #### Resposta: 
 Nenhum
