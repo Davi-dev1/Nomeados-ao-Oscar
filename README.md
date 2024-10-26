@@ -242,4 +242,5 @@ Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey and Chloé Zhao, Produ
 Philippe Rousselet, Fabrice Gianfermi and Patrick Wachsberger, Producers
 Daniel Kwan, Daniel Scheinert and Jonathan Wang, Producers
 Emma Thomas, Charles Roven and Christopher Nolan, Producers
-### Q: select nome_do_indicado,vencedor,categoria from indicados_ao_oscar where categoria like "%Best Picture%" and vencedor=1;
+### Q: 
+select nome_do_indicado,vencedor,categoria from indicados_ao_oscar where categoria like "%Best Picture%" and vencedor=1;
