@@ -244,3 +244,8 @@ Daniel Kwan, Daniel Scheinert and Jonathan Wang, Producers
 Emma Thomas, Charles Roven and Christopher Nolan, Producers
 ### Q: 
 select nome_do_indicado,vencedor,categoria from indicados_ao_oscar where categoria like "%Best Picture%" and vencedor=1;
+# 12- Bonus: Quais os filmes que ganharam o Oscar de Melhor Filme e Melhor Diretor na mesma cerimonia?
+#### Resposta: 
+Nenhum
+#### Q :
+select nome_do_filme, categoria, vencedor from indicados_ao_oscar where categoria like "%Directing%" and categoria like "%Best Picture%" and vencedor=1;
