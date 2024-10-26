@@ -60,189 +60,189 @@ select nome_do_indicado,ano_cerimonia,vencedor from indicados_ao_oscar where nom
 Lawrence of Arabia<br>
 Tom Jones<br>
 My Fair Lady<br>
-The Sound of Music
-A Man for All Seasons
-In the Heat of the Night
-Oliver!
-Midnight Cowboy
-Patton
-The French Connection
-The Godfather
-The Sting
-The Godfather Part II
-One Flew over the Cuckoo's Nest
-Rocky
-Annie Hall
-The Deer Hunter
-Kramer vs. Kramer
-Ordinary People
-Chariots of Fire
-Gandhi
-Terms of Endearment
+The Sound of Music<br>
+A Man for All Seasons<br>
+In the Heat of the Night<br>
+Oliver!<br>
+Midnight Cowboy<br>
+Patton<br>
+The French Connection <br>
+The Godfather<br>
+The Sting<br>
+The Godfather Part II <br>
+One Flew over the Cuckoo's Nest <br>
+Rocky<br>
+Annie Hall<br>
+The Deer Hunter<br>
+Kramer vs. Kramer<br>
+Ordinary People<br>
+Chariots of Fire<br>
+Gandhi<br>
+Terms of Endearment<br>
 Amadeus
 Out of Africa
 Platoon
 The Last Emperor
-Rain Man
-Driving Miss Daisy
-Dances With Wolves
-The Silence of the Lambs
-Unforgiven
-Schindler's List
-Forrest Gump
-Braveheart
-The English Patient
-Titanic
-Shakespeare in Love
-American Beauty
-Gladiator
-A Beautiful Mind
-Chicago
-The Lord of the Rings: The Return of the King
-Million Dollar Baby
-Crash
-The Departed
-No Country for Old Men
-Slumdog Millionaire
-The Hurt Locker
-The King's Speech
-The Artist
-Argo
-12 Years a Slave
-Birdman or (The Unexpected Virtue of Ignorance)
-Spotlight
-Moonlight
-The Shape of Water
-Green Book
-Parasite
-Nomadland
-CODA
-Everything Everywhere All at Once
-Oppenheimer
-Lawrence of Arabia
-Tom Jones
-My Fair Lady
-The Sound of Music
-A Man for All Seasons
-In the Heat of the Night
-Oliver!
-Midnight Cowboy
-Patton
-The French Connection
-The Godfather
-The Sting
-The Godfather Part II
-One Flew over the Cuckoo's Nest
-Rocky
-Annie Hall
-The Deer Hunter
-Kramer vs. Kramer
-Ordinary People
-Chariots of Fire
-Gandhi
-Terms of Endearment
-Amadeus
-Out of Africa
-Platoon
-The Last Emperor
-Rain Man
-Driving Miss Daisy
-Dances With Wolves
-The Silence of the Lambs
-Unforgiven
-Schindler's List
-Forrest Gump
-Braveheart
-The English Patient
-Titanic
-Shakespeare in Love
-American Beauty
-Gladiator
-A Beautiful Mind
-Chicago
-The Lord of the Rings: The Return of the King
-Million Dollar Baby
-Crash
-The Departed
-No Country for Old Men
-Slumdog Millionaire
-The Hurt Locker
-The King's Speech
-The Artist
-Argo
-12 Years a Slave
-Birdman or (The Unexpected Virtue of Ignorance)
-Spotlight
-Moonlight
-The Shape of Water
-Green Book
-Parasite
-Nomadland
-CODA
-Everything Everywhere All at Once
-Oppenheimer
-Lawrence of Arabia
-Tom Jones
-My Fair Lady
-The Sound of Music
-A Man for All Seasons
-In the Heat of the Night
-Oliver!
-Midnight Cowboy
-Patton
-The French Connection
-The Godfather
-The Sting
-The Godfather Part II
-One Flew over the Cuckoo's Nest
-Rocky
-Annie Hall
-The Deer Hunter
-Kramer vs. Kramer
-Ordinary People
-Chariots of Fire
-Gandhi
-Terms of Endearment
-Amadeus
-Out of Africa
-Platoon
-The Last Emperor
-Rain Man
-Driving Miss Daisy
-Dances With Wolves
-The Silence of the Lambs
-Unforgiven
-Schindler's List
-Forrest Gump
-Braveheart
-The English Patient
-Titanic
-Shakespeare in Love
-American Beauty
-Gladiator
-A Beautiful Mind
-Chicago
-The Lord of the Rings: The Return of the King
-Million Dollar Baby
-Crash
-The Departed
-No Country for Old Men
-Slumdog Millionaire
-The Hurt Locker
-The King's Speech
-The Artist
-Argo
-12 Years a Slave
-Birdman or (The Unexpected Virtue of Ignorance)
-Spotlight
-Moonlight
-The Shape of Water
-Green Book
-Parasite
-Nomadland
-CODA
-Everything Everywhere All at Once
-Oppenheimer
+Rain Man<br>
+Driving Miss Daisy<br>
+Dances With Wolves<br>
+The Silence of the Lambs<br>
+Unforgiven<br>
+Schindler's List<br>
+Forrest Gump<br>
+Braveheart<br>
+The English Patient<br>
+Titanic<br>
+Shakespeare in Love<br>
+American Beauty<br>
+Gladiator<br>
+A Beautiful Mind<br>
+Chicago<br>
+The Lord of the Rings: The Return of the King<br>
+Million Dollar Baby<br>
+Crash<br>
+The Departed<br>
+No Country for Old Men<br>
+Slumdog Millionaire<br>
+The Hurt Locker<br>
+The King's Speech<br>
+The Artist<br>
+Argo<br>
+12 Years a Slave<br>
+Birdman or (The Unexpected Virtue of Ignorance)<br>
+Spotlight<br>
+Moonlight<br>
+The Shape of Water<br>
+Green Book<br>
+Parasite<br>
+Nomadland<br>
+CODA<br>
+Everything Everywhere All at Once<br>
+Oppenheimer<br>
+Lawrence of Arabia<br>
+Tom Jones<br>
+My Fair Lady<br>
+The Sound of Music<br>
+A Man for All Seasons<br>
+In the Heat of the Night<br>
+Oliver!<br>
+Midnight Cowboy<br>
+Patton<br>
+The French Connection<br>
+The Godfather<br>
+The Sting<br>
+The Godfather Part II<br>
+One Flew over the Cuckoo's Nest<br>
+Rocky<br>
+Annie Hall<br>
+The Deer Hunter<br>
+Kramer vs. Kramer<br>
+Ordinary People<br>
+Chariots of Fire<br>
+Gandhi<br>
+Terms of Endearment<br>
+Amadeus<br>
+Out of Africa<br>
+Platoon<br>
+The Last Emperor<br>
+Rain Man<br>
+Driving Miss Daisy<br>
+Dances With Wolves<br>
+The Silence of the Lambs<br>
+Unforgiven<br>
+Schindler's List<br>
+Forrest Gump<br>
+Braveheart<br>
+The English Patient<br>
+Titanic<br>
+Shakespeare in Love<br>
+American Beauty<br>
+Gladiator<br>
+A Beautiful Mind<br>
+Chicago<br>
+The Lord of the Rings: The Return of the King<br>
+Million Dollar Baby<br>
+Crash<br>
+The Departed<br>
+No Country for Old Men<br>
+Slumdog Millionaire<br>
+The Hurt Locker<br>
+The King's Speech<br>
+The Artist<br>
+Argo<br>
+12 Years a Slave<br>
+Birdman or (The Unexpected Virtue of Ignorance)<br>
+Spotlight<br>
+Moonlight<br>
+The Shape of Water<br>
+Green Book<br>
+Parasite<br>
+Nomadland<br>
+CODA<br>
+Everything Everywhere All at Once<br>
+Oppenheimer<br>
+Lawrence of Arabia<br>
+Tom Jones<br>
+My Fair Lady<br>
+The Sound of Music<br>
+A Man for All Seasons<br>
+In the Heat of the Night<br>
+Oliver!<br>
+Midnight Cowboy<br>
+Patton<br>
+The French Connection<br>
+The Godfather<br>
+The Sting<br>
+The Godfather Part II<br>
+One Flew over the Cuckoo's Nest<br>
+Rocky<br>
+Annie Hall<br>
+The Deer Hunter<br>
+Kramer vs. Kramer<br>
+Ordinary People<br>
+Chariots of Fire<br>
+Gandhi<br>
+Terms of Endearment<br>
+Amadeus<br>
+Out of Africa<br>
+Platoon<br>
+The Last Emperor<br>
+Rain Man<br>
+Driving Miss Daisy<br>
+Dances With Wolves<br>
+The Silence of the Lambs<br>
+Unforgiven<br>
+Schindler's List<br>
+Forrest Gump<br>
+Braveheart<br>
+The English Patient<br>
+Titanic<br>
+Shakespeare in Love<br>
+American Beauty<br>
+Gladiator<br>
+A Beautiful Mind<br>
+Chicago<br>
+The Lord of the Rings: The Return of the King<br>
+Million Dollar Baby<br>
+Crash<br>
+The Departed<br>
+No Country for Old Men<br>
+Slumdog Millionaire<br>
+The Hurt Locker<br>
+The King's Speech<br>
+The Artist<br>
+Argo<br>
+12 Years a Slave<br>
+Birdman or (The Unexpected Virtue of Ignorance)<br>
+Spotlight<br>
+Moonlight<br>
+The Shape of Water<br>
+Green Book<br>
+Parasite<br>
+Nomadland<br>
+CODA<br>
+Everything Everywhere All at Once<br>
+Oppenheimer<br>
 
 
 
