@@ -258,4 +258,5 @@ select nome_do_filme, categoria, vencedor from indicados_ao_oscar where categori
 Não
 #### Q :
 select nome_do_indicado,ano_cerimonia from indicados_ao_oscar where nome_do_indicado like "%Denzel Washington%" and nome_do_indicado like "%Jamie Foxx%";
-#FINISH
+
+# FINISH
