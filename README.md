@@ -253,3 +253,9 @@ select nome_do_filme,vencedor,categoria from indicados_ao_oscar where categoria 
 Nenhum
 #### Q :
 select nome_do_filme, categoria, vencedor from indicados_ao_oscar where categoria like "%Directing%" and categoria like "%Best Picture%" and vencedor=1;
+# 13- Bonus: Denzel Washington e Jamie Foxx já concorreram ao Oscar no mesmo ano?
+### Resposta:
+Não
+#### Q :
+select nome_do_indicado,ano_cerimonia from indicados_ao_oscar where nome_do_indicado like "%Denzel Washington%" and nome_do_indicado like "%Jamie Foxx%";
+#FINISH
