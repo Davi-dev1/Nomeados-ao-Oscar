@@ -57,9 +57,9 @@ select nome_do_indicado,ano_cerimonia,vencedor from indicados_ao_oscar where nom
 
 # 11 - Quais os filmes que ganharam o Oscar de Melhor Filme?
 #### Resposta:
-Lawrence of Arabia
-Tom Jones
-My Fair Lady
+Lawrence of Arabia<br>
+Tom Jones<br>
+My Fair Lady<br>
 The Sound of Music
 A Man for All Seasons
 In the Heat of the Night
